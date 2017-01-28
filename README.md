@@ -4,7 +4,7 @@ The program take a text file as an input argument.
 
 The format of the text file is as follows:
 
-<char>  <int>
+*char*  *int*
 
 The valid characters are 'i' and 'd'
 
